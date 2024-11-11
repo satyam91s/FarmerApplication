@@ -1,0 +1,9 @@
+Approach:
+
+  Grant & Permit:
+   Register -> Login -> FarmerHomePage
+   
+   Login -> FarmerHomePage
+
+  FarmerHomePage:
+   Available Content- ProductPrice with State, Nearby Puschaser, 

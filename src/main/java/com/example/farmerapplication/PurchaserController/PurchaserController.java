@@ -5,7 +5,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 
 @Controller
 public class PurchaserController {
-    @RequestMapping("/purchaser")
+    @RequestMapping("/PurchaserRegister")
     public String PurchaserRegister() {
         return "Grant&PermitPages/purchaserRegister";
     }

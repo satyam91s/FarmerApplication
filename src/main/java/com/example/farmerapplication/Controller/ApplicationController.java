@@ -10,5 +10,9 @@ public class ApplicationController {
     public String Cards() {
         return "Additional/3Cards";
     }
+    @GetMapping("/")
+    public String Home() {
+        return "HomePages/index";
+    }
     
 }
